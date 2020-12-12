@@ -1,0 +1,15 @@
+D:\Proyectos\net\Curso Ing SW Videojuegos2\obj\Debug\Curso Ing SW Videojuegos2.csprojAssemblyReference.cache
+D:\Proyectos\net\Curso Ing SW Videojuegos2\obj\Debug\Curso_Ing_SW_Videojuegos2.Form1.resources
+D:\Proyectos\net\Curso Ing SW Videojuegos2\obj\Debug\Curso_Ing_SW_Videojuegos2.Properties.Resources.resources
+D:\Proyectos\net\Curso Ing SW Videojuegos2\obj\Debug\Curso Ing SW Videojuegos2.csproj.GenerateResource.cache
+D:\Proyectos\net\Curso Ing SW Videojuegos2\obj\Debug\Curso Ing SW Videojuegos2.csproj.CoreCompileInputs.cache
+D:\Proyectos\net\Curso Ing SW Videojuegos2\bin\Debug\Curso Ing SW Videojuegos2.exe.config
+D:\Proyectos\net\Curso Ing SW Videojuegos2\bin\Debug\Curso Ing SW Videojuegos2.exe
+D:\Proyectos\net\Curso Ing SW Videojuegos2\bin\Debug\Curso Ing SW Videojuegos2.pdb
+D:\Proyectos\net\Curso Ing SW Videojuegos2\obj\Debug\Curso Ing SW Videojuegos2.exe
+D:\Proyectos\net\Curso Ing SW Videojuegos2\obj\Debug\Curso Ing SW Videojuegos2.pdb
+D:\Proyectos\net\Curso Ing SW Videojuegos2\obj\Debug\Curso_Ing_SW_Videojuegos2.NewLibro.resources
+D:\Proyectos\net\Curso Ing SW Videojuegos2\obj\Debug\Curso_Ing_SW_Videojuegos2.NewEjemplar.resources
+D:\Proyectos\net\Curso Ing SW Videojuegos2\obj\Debug\Curso_Ing_SW_Videojuegos2.addNewSocio.resources
+D:\Proyectos\net\Curso Ing SW Videojuegos2\obj\Debug\Curso_Ing_SW_Videojuegos2.NewPrestamo.resources
+D:\Proyectos\net\Curso Ing SW Videojuegos2\obj\Debug\Curso_Ing_SW_Videojuegos2.RemPrestamo.resources
